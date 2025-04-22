@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+
 
 # Site Settings
 title                    : "Shaoliang Zhang"
@@ -25,7 +20,7 @@ author:
   avatar           : "images/figure.png"
   bio              : "Athletic Performance and Data Science"
   location         : "Beijing, China"
-  employer         :
+  employer         : Tsinghua University, Research Center for Athletic Performance and Data Science
 #  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
 #  email            : "Lorem@ipsum.com"
   researchgate     : "https://www.researchgate.net/profile/Shaoliang-Zhang-5"
