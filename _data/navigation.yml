@@ -5,11 +5,6 @@ main:
 
   - title: "Publications"
     url: "/#publications"  
-    children:
-      - title: "By topic"
-        url: "/#publications#by-topic"
-      - title: "By date"
-        url: "/#publications#by-date"
  
   - title: "Books"
     url: "/#books"
