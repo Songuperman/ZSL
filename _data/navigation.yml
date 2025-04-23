@@ -1,19 +1,19 @@
 
 main:
   - title: "About Me"
-    url: "/#ZSL/#about-me"
+    url: "/ZSL/#about-me"
 
   - title: "Publications"
-    url: "/#ZSL/#publications"  
+    url: "/ZSL/#publications"  
  
   - title: "Books"
-    url: "/#ZSL/#books"
+    url: "/ZSL/#books"
 
   - title: "Teaching"
-    url: "/#ZSL/#teaching"
+    url: "/ZSL/#teaching"
 
   - title: "Talks"
-    url: "/#ZSL/#talks"
+    url: "/ZSL/#talks"
 
   - title: "Lab"
-    url: "/#ZSL/#lab"
+    url: "/ZSL/#lab"
