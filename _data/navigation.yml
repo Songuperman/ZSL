@@ -4,8 +4,11 @@ main:
     url: "/ZSL/#about-me"
 
   - title: "Publications"
-    url: "/ZSL/#publications"  
- 
+    url: "/ZSL/#publications" 
+    
+   - title: "Publications"
+    url: "/ZSL/#projects"
+    
   - title: "Books"
     url: "/ZSL/#books"
 
@@ -15,5 +18,8 @@ main:
   - title: "Talks"
     url: "/ZSL/#talks"
 
-  - title: "Lab"
-    url: "/ZSL/#lab"
+  - title: "People"
+    url: "/ZSL/#people"
+
+  - title: "Blog"
+    url: "/ZSL/#blog"
