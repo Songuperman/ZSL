@@ -32,15 +32,24 @@ Assistant Professor, Department of Physical Education
 <span class='anchor' id='by-topic'></span>
 **By topic**
 
-*1. Spatio-temporal analysis*
+*1. Technical-tactical diagnosis*
    - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com)Authors: A, B, C，Conference: **CVPR 2020**
  
-*2. Traditional analysis*
+*2. Intensive schedule impact*
    - [Lorem ipsum dolor sit amet, consectetur adipiscing elit...](https://github.com)  Authors: A, B, C，Conference: **CVPR 2020**
  
-*3. Machine learning analysis*
+*3. Spatio-temporal feature mining*
    - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
-  
+     
+*4. Physical training monitor*
+   - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
+
+*5. Systematic review*
+   - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
+
+*6. Sports injury*
+   - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
+
 <span class='anchor' id='by-date'></span>
 **By date**
 
@@ -62,7 +71,7 @@ Assistant Professor, Department of Physical Education
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
   
-# Lab
+# People
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PHD</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,4 +115,6 @@ Assistant Professor, Department of Physical Education
 </div>
 </div>
 
-  
+# Blog
+**1. XXXXX**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
