@@ -42,7 +42,6 @@ All judgements are, in their rationale, statistics."
    - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com)Authors: A, B, C，Conference: **CVPR 2020**
  
 *2. Intensive schedule impact*
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJSPP</div><img src='paperimages/isppTrackingWhatTrulyMatters.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
@@ -96,7 +95,7 @@ All judgements are, in their rationale, statistics."
 **International Talks**
 
 - *2016.07*, **ECSS**, Austria, Vienna. [Evaluating the quality of opposition in basketball games based on TOPSIS method](talks/Baca-2016.pdf).
-- *2017.10*, **CSS**, , FC Barcelona Stadium, Barcelona. [Performance Profiles of Basketball Players in NBA According to Anthropometric Attributes and Playing Experience](talks/Complexsystemsinsport.pdf).
+- *2017.10*, **CSS**, FC Barcelona Stadium, Barcelona. [Performance Profiles of Basketball Players in NBA According to Anthropometric Attributes and Playing Experience](talks/Complexsystemsinsport.pdf).
 - *2018.07*, **ECSS**, Ireland, Dublin. [The interactive effects of situational variables on team performance in NBA](talks/Book of abstracts.pdf).
 - *2020.12*, **CIB**, En Cáceres. [Modelling and simulation in game performances of basketball players and teams in the national basketball association](talks/Modellingandsimulation.pdf).
 - *2023.10*, **Statsbomb**,UK, Wembley. [Clustering Football Game Situations via Deep Representation Learning](talks/ClusteringFootballGameSituations.pdf).
