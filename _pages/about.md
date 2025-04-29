@@ -95,7 +95,7 @@ All judgements are, in their rationale, statistics."
 
 **International Talks**
 
-- *2016.07*, **ECSS**, Austria, Vienna. [Evaluating the quality of opposition in basketball games based on TOPSIS method](talks/BACA-2016.pdf).
+- *2016.07*, **ECSS**, Austria, Vienna. [Evaluating the quality of opposition in basketball games based on TOPSIS method](talks/Baca-2016.pdf).
 - *2017.10*, **CSS**, , FC Barcelona Stadium, Barcelona. [Performance Profiles of Basketball Players in NBA According to Anthropometric Attributes and Playing Experience](talks/Complexsystemsinsport.pdf).
 - *2018.07*, **ECSS**, Ireland, Dublin. [The interactive effects of situational variables on team performance in NBA](talks/Book of abstracts.pdf).
 - *2020.12*, **CIB**, En Cáceres. [Modelling and simulation in game performances of basketball players and teams in the national basketball association](talks/Modellingandsimulation.pdf).
