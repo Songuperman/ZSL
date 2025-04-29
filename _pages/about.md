@@ -51,11 +51,9 @@ All judgements are, in their rationale, statistics."
 
 **Journal** : International Journal of Sports Physiology and Performance
 
-**Impact Factor**: 3.5
-
-**中科院分区**: 2区
-
 **DOI**:  https://doi.org/10.1123/ijspp.2024-0488
+
+**Impact Factor**: 3.5, **中科院分区**: 2区
 </div>
 </div>
 
